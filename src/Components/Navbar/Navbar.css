@@ -1,0 +1,39 @@
+.navbar {
+  height: 10%;
+  display: flex;
+}
+.navbar-title-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.title,
+.current-rating {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  gap: 5px;
+}
+.title {
+  font-size: 24px;
+  font-weight: bold;
+}
+.duration-tags-container {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  height: 35px;
+  margin: auto;
+  background-color: white;
+}
+
+.duration-tag {
+  padding: 2px 10px;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+
+.duration-tag:hover {
+  transform: scale(1.2);
+  background-color: grey;
+}

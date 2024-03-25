@@ -1,0 +1,1266 @@
+{
+  "summary": {
+    "name": "summary",
+    "tags": [
+      {
+        "bearish": "14",
+        "neutral": "8",
+        "bullish": "5"
+      },
+      {
+        "bearish": "11",
+        "neutral": "9",
+        "bullish": "7"
+      },
+      {
+        "bearish": "9",
+        "neutral": "9",
+        "bullish": "9"
+      },
+      {
+        "bearish": "7",
+        "neutral": "12",
+        "bullish": "8"
+      },
+      {
+        "bearish": "4",
+        "neutral": "10",
+        "bullish": "13"
+      },
+      {
+        "bearish": "4",
+        "neutral": "10",
+        "bullish": "13"
+      }
+    ],
+    "indicators": [
+      [
+        {
+          "value": "22108.15",
+          "name": "EMA (20)"
+        },
+        {
+          "value": "22115.62",
+          "name": "SMA(20)"
+        },
+        {
+          "value": "40.38",
+          "name": "RSI(14)"
+        },
+        {
+          "value": "-18.79",
+          "name": "Awesome Osc."
+        },
+        {
+          "value": "-1.74",
+          "name": "Macd (12, 26, 9)"
+        },
+        {
+          "value": "-97.47",
+          "name": "CCI (20)"
+        }
+      ],
+      [
+        {
+          "value": "22098.53",
+          "name": "EMA (20)"
+        },
+        {
+          "value": "22104.85",
+          "name": "SMA(20)"
+        },
+        {
+          "value": "46.95",
+          "name": "RSI(14)"
+        },
+        {
+          "value": "25.60",
+          "name": "Awesome Osc."
+        },
+        {
+          "value": "11.71",
+          "name": "Macd (12, 26, 9)"
+        },
+        {
+          "value": "-79.31",
+          "name": "CCI (20)"
+        }
+      ],
+      [
+        {
+          "value": "22086.10",
+          "name": "EMA (20)"
+        },
+        {
+          "value": "22090.76",
+          "name": "SMA(20)"
+        },
+        {
+          "value": "51.51",
+          "name": "RSI(14)"
+        },
+        {
+          "value": "67.30",
+          "name": "Awesome Osc."
+        },
+        {
+          "value": "24.23",
+          "name": "Macd (12, 26, 9)"
+        },
+        {
+          "value": "-32.52",
+          "name": "CCI (20)"
+        }
+      ],
+      [
+        {
+          "value": "22053.62",
+          "name": "EMA (20)"
+        },
+        {
+          "value": "22051.08",
+          "name": "SMA(20)"
+        },
+        {
+          "value": "55.85",
+          "name": "RSI(14)"
+        },
+        {
+          "value": "105.57",
+          "name": "Awesome Osc."
+        },
+        {
+          "value": "39.81",
+          "name": "Macd (12, 26, 9)"
+        },
+        {
+          "value": "51.64",
+          "name": "CCI (20)"
+        }
+      ],
+      [
+        {
+          "value": "22017.77",
+          "name": "EMA (20)"
+        },
+        {
+          "value": "21987.83",
+          "name": "SMA(20)"
+        },
+        {
+          "value": "58.31",
+          "name": "RSI(14)"
+        },
+        {
+          "value": "133.74",
+          "name": "Awesome Osc."
+        },
+        {
+          "value": "35.51",
+          "name": "Macd (12, 26, 9)"
+        },
+        {
+          "value": "76.55",
+          "name": "CCI (20)"
+        }
+      ],
+      [
+        {
+          "value": "22076.49",
+          "name": "EMA (20)"
+        },
+        {
+          "value": "22159.61",
+          "name": "SMA(20)"
+        },
+        {
+          "value": "51.48",
+          "name": "RSI(14)"
+        },
+        {
+          "value": "-96.92",
+          "name": "Awesome Osc."
+        },
+        {
+          "value": "14.42",
+          "name": "Macd (12, 26, 9)"
+        },
+        {
+          "value": "-43.90",
+          "name": "CCI (20)"
+        }
+      ]
+    ]
+  },
+  "supportAndResistence": {
+    "name": "Support & Resistence",
+    "tags": [],
+    "indicators": [
+      [
+        {
+          "value": "21943.62",
+          "name": "S1"
+        },
+        {
+          "value": "21872.63",
+          "name": "S2"
+        },
+        {
+          "value": "21732.98",
+          "name": "S3"
+        },
+        {
+          "value": "22083.27",
+          "name": "R1"
+        },
+        {
+          "value": "22151.93",
+          "name": "R2"
+        },
+        {
+          "value": "22291.58",
+          "name": "R3"
+        }
+      ],
+      [
+        {
+          "value": "21943.62",
+          "name": "S1"
+        },
+        {
+          "value": "21872.63",
+          "name": "S2"
+        },
+        {
+          "value": "21732.98",
+          "name": "S3"
+        },
+        {
+          "value": "22083.27",
+          "name": "R1"
+        },
+        {
+          "value": "22151.93",
+          "name": "R2"
+        },
+        {
+          "value": "22291.58",
+          "name": "R3"
+        }
+      ],
+      [
+        {
+          "value": "21943.62",
+          "name": "S1"
+        },
+        {
+          "value": "21872.63",
+          "name": "S2"
+        },
+        {
+          "value": "21732.98",
+          "name": "S3"
+        },
+        {
+          "value": "22083.27",
+          "name": "R1"
+        },
+        {
+          "value": "22151.93",
+          "name": "R2"
+        },
+        {
+          "value": "22291.58",
+          "name": "R3"
+        }
+      ],
+      [
+        {
+          "value": "21759.13",
+          "name": "S1"
+        },
+        {
+          "value": "21521.92",
+          "name": "S2"
+        },
+        {
+          "value": "20900.97",
+          "name": "S3"
+        },
+        {
+          "value": "22380.08",
+          "name": "R1"
+        },
+        {
+          "value": "22763.82",
+          "name": "R2"
+        },
+        {
+          "value": "23384.77",
+          "name": "R3"
+        }
+      ],
+      [
+        {
+          "value": "21759.13",
+          "name": "S1"
+        },
+        {
+          "value": "21521.92",
+          "name": "S2"
+        },
+        {
+          "value": "20900.97",
+          "name": "S3"
+        },
+        {
+          "value": "22380.08",
+          "name": "R1"
+        },
+        {
+          "value": "22763.82",
+          "name": "R2"
+        },
+        {
+          "value": "23384.77",
+          "name": "R3"
+        }
+      ],
+
+      [
+        {
+          "value": "21576.17",
+          "name": "S1"
+        },
+        {
+          "value": "21169.53",
+          "name": "S2"
+        },
+        {
+          "value": "20402.23",
+          "name": "S3"
+        },
+        {
+          "value": "22343.47",
+          "name": "R1"
+        },
+        {
+          "value": "22704.13",
+          "name": "R2"
+        },
+        {
+          "value": "23471.43",
+          "name": "R3"
+        }
+      ]
+    ]
+  },
+  "movingAverages": {
+    "name": "Moving averages",
+    "tags": [
+      {
+        "bearish": "10",
+        "neutral": "2",
+        "bullish": "5"
+      },
+      {
+        "bearish": "8",
+        "neutral": "2",
+        "bullish": "7"
+      },
+      {
+        "bearish": "7",
+        "neutral": "2",
+        "bullish": "8"
+      },
+      {
+        "bearish": "7",
+        "neutral": "2",
+        "bullish": "8"
+      },
+      {
+        "bearish": "4",
+        "neutral": "2",
+        "bullish": "11"
+      },
+      {
+        "bearish": "2",
+        "neutral": "1",
+        "bullish": "14"
+      }
+    ],
+    "indicators": [
+      [
+        {
+          "tag": "S",
+          "name": "EMA (5)",
+          "value": "22091.28"
+        },
+        {
+          "tag": "S",
+          "name": "SMA (5)",
+          "value": "22087.02"
+        },
+        {
+          "tag": "S",
+          "name": "EMA (10)",
+          "value": "22102.87"
+        },
+        {
+          "tag": "S",
+          "name": "SMA (10)",
+          "value": "22114.63"
+        },
+        {
+          "tag": "S",
+          "name": "EMA (20)",
+          "value": "22108.15"
+        },
+        {
+          "tag": "S",
+          "name": "SMA (20)",
+          "value": "22115.62"
+        },
+        {
+          "tag": "S",
+          "name": "EMA (30)",
+          "value": "22105.43"
+        },
+        {
+          "tag": "S",
+          "name": "SMA (30)",
+          "value": "22110.67"
+        },
+        {
+          "tag": "S",
+          "name": "EMA (50)",
+          "value": "22094.20"
+        },
+        {
+          "tag": "S",
+          "name": "SMA (50)",
+          "value": "22100.39"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (100)",
+          "value": "22063.52"
+        },
+        {
+          "tag": "B",
+          "name": "SMA (100)",
+          "value": "22055.74"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (200)",
+          "value": "22022.45"
+        },
+        {
+          "tag": "B",
+          "name": "SMA (200)",
+          "value": "21997.33"
+        },
+        {
+          "tag": "N",
+          "name": "Ichimoku Base line (9, 26, 52, 26)",
+          "value": "22122.25"
+        },
+        {
+          "tag": "N",
+          "name": "Volume Weighted MA (20)",
+          "value": "0.00"
+        },
+        {
+          "tag": "B",
+          "name": "Hull MA (9)",
+          "value": "22071.08"
+        }
+      ],
+      [
+        {
+          "tag": "S",
+          "name": "EMA (5)",
+          "value": "22096.01"
+        },
+        {
+          "tag": "S",
+          "name": "SMA (5)",
+          "value": "22102.78"
+        },
+        {
+          "tag": "S",
+          "name": "EMA (10)",
+          "value": "22103.63"
+        },
+        {
+          "tag": "S",
+          "name": "SMA (10)",
+          "value": "22113.59"
+        },
+        {
+          "tag": "S",
+          "name": "EMA (20)",
+          "value": "22098.53"
+        },
+        {
+          "tag": "S",
+          "name": "SMA (20)",
+          "value": "22104.85"
+        },
+        {
+          "tag": "S",
+          "name": "EMA (30)",
+          "value": "22087.47"
+        },
+        {
+          "tag": "S",
+          "name": "SMA (30)",
+          "value": "22092.96"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (50)",
+          "value": "22064.03"
+        },
+        {
+          "tag": "B",
+          "name": "SMA (50)",
+          "value": "22057.15"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (100)",
+          "value": "22023.01"
+        },
+        {
+          "tag": "B",
+          "name": "SMA (100)",
+          "value": "22000.62"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (200)",
+          "value": "22015.68"
+        },
+        {
+          "tag": "B",
+          "name": "SMA (200)",
+          "value": "21966.17"
+        },
+        {
+          "tag": "N",
+          "name": "Ichimoku Base line (9, 26, 52, 26)",
+          "value": "22115.08"
+        },
+        {
+          "tag": "N",
+          "name": "Volume Weighted MA (20)",
+          "value": "0.00"
+        },
+        {
+          "tag": "B",
+          "name": "Hull MA (9)",
+          "value": "22076.15"
+        }
+      ],
+      [
+        {
+          "tag": "S",
+          "name": "EMA (5)",
+          "value": "22101.14"
+        },
+        {
+          "tag": "S",
+          "name": "SMA (5)",
+          "value": "22116.60"
+        },
+        {
+          "tag": "S",
+          "name": "EMA (10)",
+          "value": "22101.86"
+        },
+        {
+          "tag": "S",
+          "name": "SMA (10)",
+          "value": "22108.73"
+        },
+        {
+          "tag": "S",
+          "name": "EMA (20)",
+          "value": "22086.10"
+        },
+        {
+          "tag": "S",
+          "name": "SMA (20)",
+          "value": "22090.76"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (30)",
+          "value": "22068.10"
+        },
+        {
+          "tag": "B",
+          "name": "SMA (30)",
+          "value": "22060.84"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (50)",
+          "value": "22037.81"
+        },
+        {
+          "tag": "B",
+          "name": "SMA (50)",
+          "value": "22043.75"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (100)",
+          "value": "22010.37"
+        },
+        {
+          "tag": "B",
+          "name": "SMA (100)",
+          "value": "21945.47"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (200)",
+          "value": "22040.68"
+        },
+        {
+          "tag": "B",
+          "name": "SMA (200)",
+          "value": "22006.64"
+        },
+        {
+          "tag": "N",
+          "name": "Ichimoku Base line (9, 26, 52, 26)",
+          "value": "22032.00"
+        },
+        {
+          "tag": "N",
+          "name": "Volume Weighted MA (20)",
+          "value": "0.00"
+        },
+        {
+          "tag": "S",
+          "name": "Hull MA (9)",
+          "value": "22107.19"
+        }
+      ],
+      [
+        {
+          "tag": "S",
+          "name": "EMA (5)",
+          "value": "22094.01"
+        },
+        {
+          "tag": "S",
+          "name": "SMA (5)",
+          "value": "22101.84"
+        },
+        {
+          "tag": "S",
+          "name": "EMA (10)",
+          "value": "22083.78"
+        },
+        {
+          "tag": "S",
+          "name": "SMA (10)",
+          "value": "22091.39"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (20)",
+          "value": "22053.62"
+        },
+        {
+          "tag": "B",
+          "name": "SMA (20)",
+          "value": "22051.08"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (30)",
+          "value": "22029.79"
+        },
+        {
+          "tag": "B",
+          "name": "SMA (30)",
+          "value": "22020.26"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (50)",
+          "value": "22011.07"
+        },
+        {
+          "tag": "B",
+          "name": "SMA (50)",
+          "value": "21946.93"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (100)",
+          "value": "22037.56"
+        },
+        {
+          "tag": "B",
+          "name": "SMA (100)",
+          "value": "21992.88"
+        },
+        {
+          "tag": "S",
+          "name": "EMA (200)",
+          "value": "22081.90"
+        },
+        {
+          "tag": "S",
+          "name": "SMA (200)",
+          "value": "22185.05"
+        },
+        {
+          "tag": "N",
+          "name": "Ichimoku Base line (9, 26, 52, 26)",
+          "value": "22032.00"
+        },
+        {
+          "tag": "N",
+          "name": "Volume Weighted MA (20)",
+          "value": "0.00"
+        },
+        {
+          "tag": "S",
+          "name": "Hull MA (9)",
+          "value": "22109.27"
+        }
+      ],
+      [
+        {
+          "tag": "B",
+          "name": "EMA (5)",
+          "value": "22079.20"
+        },
+        {
+          "tag": "S",
+          "name": "SMA (5)",
+          "value": "22089.74"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (10)",
+          "value": "22055.40"
+        },
+        {
+          "tag": "B",
+          "name": "SMA (10)",
+          "value": "22057.24"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (20)",
+          "value": "22017.77"
+        },
+        {
+          "tag": "B",
+          "name": "SMA (20)",
+          "value": "21987.83"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (30)",
+          "value": "22009.30"
+        },
+        {
+          "tag": "B",
+          "name": "SMA (30)",
+          "value": "21950.25"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (50)",
+          "value": "22030.08"
+        },
+        {
+          "tag": "B",
+          "name": "SMA (50)",
+          "value": "21986.74"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (100)",
+          "value": "22077.71"
+        },
+        {
+          "tag": "S",
+          "name": "SMA (100)",
+          "value": "22172.55"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (200)",
+          "value": "22044.73"
+        },
+        {
+          "tag": "s",
+          "name": "SMA (200)",
+          "value": "22111.90"
+        },
+        {
+          "tag": "N",
+          "name": "Ichimoku Base line (9, 26, 52, 26)",
+          "value": "21945.45"
+        },
+        {
+          "tag": "N",
+          "name": "Volume Weighted MA (20)",
+          "value": "0.00"
+        },
+        {
+          "tag": "S",
+          "name": "Hull MA (9)",
+          "value": "22107.38"
+        }
+      ],
+      [
+        {
+          "tag": "B",
+          "name": "EMA (5)",
+          "value": "22016.03"
+        },
+        {
+          "tag": "B",
+          "name": "SMA (5)",
+          "value": "21964.19"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (10)",
+          "value": "22056.57"
+        },
+        {
+          "tag": "B",
+          "name": "SMA (10)",
+          "value": "22065.70"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (20)",
+          "value": "22076.49"
+        },
+        {
+          "tag": "S",
+          "name": "SMA (20)",
+          "value": "22159.61"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (30)",
+          "value": "22031.16"
+        },
+        {
+          "tag": "e",
+          "name": "SMA (30)",
+          "value": "22090.58"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (50)",
+          "value": "21857.60"
+        },
+        {
+          "tag": "B",
+          "name": "SMA (50)",
+          "value": "21931.91"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (100)",
+          "value": "21332.67"
+        },
+        {
+          "tag": "B",
+          "name": "SMA (100)",
+          "value": "21205.93"
+        },
+        {
+          "tag": "B",
+          "name": "EMA (200)",
+          "value": "20486.04"
+        },
+        {
+          "tag": "B",
+          "name": "SMA (200)",
+          "value": "20312.01"
+        },
+        {
+          "tag": "B",
+          "name": "Ichimoku Base line (9, 26, 52, 26)",
+          "value": "22118.40"
+        },
+        {
+          "tag": "N",
+          "name": "Volume Weighted MA (20)",
+          "value": "0.00"
+        },
+        {
+          "tag": "B",
+          "name": "Hull MA (9)",
+          "value": "21909.50"
+        }
+      ]
+    ]
+  },
+  "oscillators": {
+    "name": "oscillators",
+    "tags": [
+      {
+        "bearish": "4",
+        "neutral": "6",
+        "bullish": "0"
+      },
+      {
+        "bearish": "3",
+        "neutral": "7",
+        "bullish": "0"
+      },
+      {
+        "bearish": "2",
+        "neutral": "7",
+        "bullish": "1"
+      },
+      {
+        "bearish": "0",
+        "neutral": "10",
+        "bullish": "0"
+      },
+      {
+        "bearish": "0",
+        "neutral": "8",
+        "bullish": "2"
+      },
+      {
+        "bearish": "1",
+        "neutral": "9",
+        "bullish": "0"
+      }
+    ],
+    "indicators": [
+      [
+        {
+          "tag": "N",
+          "name": "RSI (14)",
+          "value": "40.38"
+        },
+        {
+          "tag": "N",
+          "name": "Stoch.%K (14, 3, 3)",
+          "value": "14.54"
+        },
+        {
+          "tag": "N",
+          "name": "CCI (20)",
+          "value": "-97.47"
+        },
+        {
+          "tag": "N",
+          "name": "ADX (14)",
+          "value": "26.67"
+        },
+        {
+          "tag": "S",
+          "name": "Awesome Osc.",
+          "value": "-18.79"
+        },
+        {
+          "tag": "S",
+          "name": "Momentum (10)",
+          "value": "-52.20"
+        },
+        {
+          "tag": "S",
+          "name": "Macd (12, 26, 9)",
+          "value": "-1.74"
+        },
+        {
+          "tag": "N",
+          "name": "Stoch. RSI Fast (3, 3, 14, 14)",
+          "value": "8.39"
+        },
+        {
+          "tag": "S",
+          "name": "Williams %Range (14)",
+          "value": "-85.46"
+        },
+        {
+          "tag": "N",
+          "name": "Ultimate Osc. (7, 14, 28)",
+          "value": "40.59"
+        }
+      ],
+      [
+        {
+          "tag": "N",
+          "name": "RSI (14)",
+          "value": "46.95"
+        },
+        {
+          "tag": "N",
+          "name": "Stoch.%K (14, 3, 3)",
+          "value": "14.54"
+        },
+        {
+          "tag": "N",
+          "name": "CCI (20)",
+          "value": "-79.31"
+        },
+        {
+          "tag": "N",
+          "name": "ADX (14)",
+          "value": "18.59"
+        },
+        {
+          "tag": "N",
+          "name": "Awesome Osc.",
+          "value": "25.60"
+        },
+        {
+          "tag": "S",
+          "name": "Momentum (10)",
+          "value": "-13.35"
+        },
+        {
+          "tag": "S",
+          "name": "Macd (12, 26, 9)",
+          "value": "11.71"
+        },
+        {
+          "tag": "N",
+          "name": "Stoch. RSI Fast (3, 3, 14, 14)",
+          "value": "0.97"
+        },
+        {
+          "tag": "S",
+          "name": "Williams %Range (14)",
+          "value": "-85.46"
+        },
+        {
+          "tag": "N",
+          "name": "Ultimate Osc. (7, 14, 28)",
+          "value": "39.97"
+        }
+      ],
+      [
+        {
+          "tag": "N",
+          "name": "RSI (14)",
+          "value": "51.51"
+        },
+        {
+          "tag": "N",
+          "name": "Stoch.%K (14, 3, 3)",
+          "value": "16.92"
+        },
+        {
+          "tag": "N",
+          "name": "CCI (20)",
+          "value": "-32.52"
+        },
+        {
+          "tag": "N",
+          "name": "ADX (14)",
+          "value": "13.57"
+        },
+        {
+          "tag": "N",
+          "name": "Awesome Osc.",
+          "value": "67.30"
+        },
+        {
+          "tag": "S",
+          "name": "Momentum (10)",
+          "value": "-15.70"
+        },
+        {
+          "tag": "S",
+          "name": "Macd (12, 26, 9)",
+          "value": "24.23"
+        },
+        {
+          "tag": "N",
+          "name": "Stoch. RSI Fast (3, 3, 14, 14)",
+          "value": "12.81"
+        },
+        {
+          "tag": "B",
+          "name": "Williams %Range (14)",
+          "value": "-83.08"
+        },
+        {
+          "tag": "N",
+          "name": "Ultimate Osc. (7, 14, 28)",
+          "value": "45.33"
+        }
+      ],
+      [
+        {
+          "tag": "N",
+          "name": "RSI (14)",
+          "value": "55.85"
+        },
+        {
+          "tag": "N",
+          "name": "Stoch.%K (14, 3, 3)",
+          "value": "66.41"
+        },
+        {
+          "tag": "N",
+          "name": "CCI (20)",
+          "value": "51.64"
+        },
+        {
+          "tag": "N",
+          "name": "ADX (14)",
+          "value": "12.79"
+        },
+        {
+          "tag": "N",
+          "name": "Awesome Osc.",
+          "value": "105.57"
+        },
+        {
+          "tag": "N",
+          "name": "Momentum (10)",
+          "value": "44.35"
+        },
+        {
+          "tag": "N",
+          "name": "Macd (12, 26, 9)",
+          "value": "39.81"
+        },
+        {
+          "tag": "N",
+          "name": "Stoch. RSI Fast (3, 3, 14, 14)",
+          "value": "46.62"
+        },
+        {
+          "tag": "N",
+          "name": "Williams %Range (14)",
+          "value": "-33.59"
+        },
+        {
+          "tag": "N",
+          "name": "Ultimate Osc. (7, 14, 28)",
+          "value": "51.01"
+        }
+      ],
+      [
+        {
+          "tag": "N",
+          "name": "RSI (14)",
+          "value": "58.31"
+        },
+        {
+          "tag": "N",
+          "name": "Stoch.%K (14, 3, 3)",
+          "value": "66.41"
+        },
+        {
+          "tag": "N",
+          "name": "CCI (20)",
+          "value": "76.55"
+        },
+        {
+          "tag": "N",
+          "name": "ADX (14)",
+          "value": "16.02"
+        },
+        {
+          "tag": "B",
+          "name": "Awesome Osc.",
+          "value": "133.74"
+        },
+        {
+          "tag": "N",
+          "name": "Momentum (10)",
+          "value": "77.20"
+        },
+        {
+          "tag": "B",
+          "name": "Macd (12, 26, 9)",
+          "value": "35.51"
+        },
+        {
+          "tag": "N",
+          "name": "Stoch. RSI Fast (3, 3, 14, 14)",
+          "value": "60.48"
+        },
+        {
+          "tag": "N",
+          "name": "Williams %Range (14)",
+          "value": "-33.59"
+        },
+        {
+          "tag": "N",
+          "name": "Ultimate Osc. (7, 14, 28)",
+          "value": "59.80"
+        }
+      ],
+      [
+        {
+          "tag": "N",
+          "name": "RSI (14)",
+          "value": "51.48"
+        },
+        {
+          "tag": "N",
+          "name": "Stoch.%K (14, 3, 3)",
+          "value": "47.35"
+        },
+        {
+          "tag": "N",
+          "name": "CCI (20)",
+          "value": "-43.90"
+        },
+        {
+          "tag": "N",
+          "name": "ADX (14)",
+          "value": "16.19"
+        },
+        {
+          "tag": "S",
+          "name": "Awesome Osc.",
+          "value": "-96.92"
+        },
+        {
+          "tag": "N",
+          "name": "Momentum (10)",
+          "value": "-396.80"
+        },
+        {
+          "tag": "N",
+          "name": "Macd (12, 26, 9)",
+          "value": "14.42"
+        },
+        {
+          "tag": "N",
+          "name": "Stoch. RSI Fast (3, 3, 14, 14)",
+          "value": "10.72"
+        },
+        {
+          "tag": "N",
+          "name": "Williams %Range (14)",
+          "value": "-52.65"
+        },
+        {
+          "tag": "N",
+          "name": "Ultimate Osc. (7, 14, 28)",
+          "value": "55.75"
+        }
+      ]
+    ]
+  }
+}

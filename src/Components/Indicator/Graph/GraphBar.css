@@ -1,0 +1,18 @@
+.tubes {
+  display: flex;
+  gap: 5px;
+  width: 80%;
+  justify-content: space-around;
+  align-items: center;
+}
+.tube {
+  width: 5px;
+}
+.pointer {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border: 5px solid rgb(0, 2, 53);
+  position: absolute;
+  background-color: white;
+}

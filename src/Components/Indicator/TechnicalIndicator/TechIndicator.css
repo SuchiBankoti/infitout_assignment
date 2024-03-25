@@ -1,0 +1,78 @@
+.indicator-container {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  padding: 5px;
+  min-height: 320px;
+  min-width: 320px;
+  box-shadow: 1px 1px lightgrey;
+  transition: all 0.3s;
+}
+.indicator-container:hover {
+  box-shadow: 5px 5px lightgrey;
+}
+.info-bar {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 10px;
+  align-items: center;
+  font-weight: bold;
+  color: black;
+  font-size: 16px;
+}
+.icon {
+  color: gray;
+}
+.graph-bar {
+  flex: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.tag-bar {
+  flex: 2;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.tag {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+.tag-value {
+  font-size: 14px;
+}
+.tag-title {
+  width: 65px;
+  padding: 2px 5px;
+  background-color: pink;
+  text-align: center;
+  font-size: 13px;
+}
+.indicators-bar {
+  flex: 2;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 5px;
+  padding: 5px;
+}
+.indicator {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.indicator-value {
+  font-size: 14px;
+}
+.indicator-title {
+  text-transform: uppercase;
+  color: gray;
+  font-size: 13px;
+}
