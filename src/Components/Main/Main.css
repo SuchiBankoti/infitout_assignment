@@ -12,11 +12,6 @@
   grid-template-rows: 1fr 1fr;
   gap: 2%;
 }
-.footer {
-  height: 5%;
-  background-color: whitesmoke;
-  margin-top: 50px;
-}
 @media screen and (max-width: 778px) {
   .main-grid-container {
     display: flex;

@@ -36,7 +36,6 @@ export default function Main() {
         <TechIndicator data={movingAveragesData} durationTag={durationTag} />
         <TechIndicator data={oscillatorsData} durationTag={durationTag} />
       </div>
-      <div className="footer"></div>
     </div>
   );
 }
