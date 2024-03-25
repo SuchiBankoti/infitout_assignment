@@ -2,14 +2,10 @@
   display: flex;
   flex-direction: column;
   background-color: white;
-  padding: 5px;
-  min-height: 320px;
+  padding: var(--constant);
+  min-height: 400px;
   min-width: 320px;
-  box-shadow: 1px 1px lightgrey;
   transition: all 0.3s;
-}
-.indicator-container:hover {
-  box-shadow: 5px 5px lightgrey;
 }
 .info-bar {
   flex: 1;
@@ -20,6 +16,7 @@
   font-weight: bold;
   color: black;
   font-size: 16px;
+  min-height: 60px;
 }
 .icon {
   color: gray;
@@ -30,25 +27,27 @@
   align-items: center;
   justify-content: center;
   position: relative;
+  min-height: 100px;
 }
 .tag-bar {
   flex: 2;
   display: flex;
   align-items: center;
   justify-content: space-around;
+  min-height: 100px;
 }
 .tag {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 5px;
+  gap: var(--constant);
 }
 .tag-value {
   font-size: 14px;
 }
 .tag-title {
   width: 65px;
-  padding: 2px 5px;
+  padding: var(--constant) var(--constant);
   background-color: pink;
   text-align: center;
   font-size: 13px;
@@ -58,8 +57,8 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr;
-  gap: 5px;
-  padding: 5px;
+  gap: var(--constant);
+  padding: var(--constant);
 }
 .indicator {
   display: flex;
@@ -75,4 +74,37 @@
   text-transform: uppercase;
   color: gray;
   font-size: 13px;
+}
+.dropdown-bar {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  overflow-y: hidden;
+  background-color: white;
+  height: fit-content;
+}
+.dropdown-indicator {
+  flex-direction: row;
+  padding: 10px 0px;
+}
+.dropdown-tag > p {
+  font-size: 13px;
+  background-color: pink;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--constant) 10px;
+  border-radius: 2px;
+}
+.dropdown {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.view-btn {
+  color: var(--grey);
+  text-align: right;
+  padding: 0px 10px;
+  cursor: pointer;
 }

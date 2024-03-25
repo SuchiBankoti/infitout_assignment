@@ -7,7 +7,10 @@ export default function Main() {
   const [supportAndResistenceData, setSupportAndResistenceData] = useState({});
   const [movingAveragesData, setMovingAveragesData] = useState({});
   const [oscillatorsData, setOscillatorsData] = useState({});
-
+  const [durationTag, setDurationTag] = useState(0);
+  function handleDuration(index) {
+    setDurationTag(index);
+  }
   useEffect(() => {
     fetch("./data/data.json")
       .then((res) => res.json())
@@ -23,13 +26,17 @@ export default function Main() {
   }, []);
   return (
     <div className="main-container">
-      <Navbar />
+      <Navbar handleDuration={handleDuration} />
       <div className="main-grid-container">
-        <TechIndicator data={summaryData} />
-        <TechIndicator data={supportAndResistenceData} />
-        <TechIndicator data={movingAveragesData} />
-        <TechIndicator data={oscillatorsData} />
+        <TechIndicator data={summaryData} durationTag={durationTag} />
+        <TechIndicator
+          data={supportAndResistenceData}
+          durationTag={durationTag}
+        />
+        <TechIndicator data={movingAveragesData} durationTag={durationTag} />
+        <TechIndicator data={oscillatorsData} durationTag={durationTag} />
       </div>
+      <div className="footer"></div>
     </div>
   );
 }

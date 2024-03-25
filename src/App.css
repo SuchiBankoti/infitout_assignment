@@ -2,6 +2,6 @@
   width: calc(100vw - 50px);
   height: 100vh;
   margin: auto;
-  overflow: auto;
   text-transform: capitalize;
+  padding-bottom: 20px;
 }
